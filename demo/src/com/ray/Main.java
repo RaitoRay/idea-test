@@ -9,8 +9,12 @@ public class Main {
         System.out.println("hello git");
         System.out.println("hello git");
         test();
+        second();
     }
     public static void test(){
         System.out.println("test");
+    }
+    public static void second(){
+        System.out.println("second");
     }
 }
