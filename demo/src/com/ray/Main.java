@@ -10,7 +10,7 @@ public class Main {
         System.out.println("hello git");
         test();
         second();
-        System.out.println("testtest");
+        System.out.println("testtesttest");
     }
     public static void test(){
         System.out.println("test");
